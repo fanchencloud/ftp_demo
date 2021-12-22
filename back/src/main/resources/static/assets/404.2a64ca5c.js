@@ -1,0 +1,1 @@
+import{_ as e}from"./index.7997a131.js";import{o,y as s,z as t}from"./vendor.37f42dc1.js";const n={name:"404"},r=t("h1",null,"404",-1),a=[r];function c(_,d,i,p,f,l){return o(),s("div",null,a)}var h=e(n,[["render",c]]);export{h as default};
